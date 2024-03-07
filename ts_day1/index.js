@@ -8,3 +8,6 @@ var person = {
     gender: "male",
     nationality: "Myanmar"
 };
+var sum = function (x, y) {
+    console.log(x + y);
+};
